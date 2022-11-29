@@ -1,9 +1,7 @@
 ### Hi there 👋
 <h3 align="center"> Programmer with practical experience in marketing<h3>
-<!--
-**adamovich-ivan/adamovich-ivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🌱 I’m currently learning <b>Laravel, Vue, AWS, Swift</b>
+- 🌱 I’m currently learning <b>Laravel, Livewire, Vue, AWS, Swift</b>
 
 - 📫 How to reach me: ivan.adamovich@zorka.app
 
