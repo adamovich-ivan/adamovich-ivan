@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h3> Programmer with practical experience in marketing<h3>
+<h3> I am programmer with practical experience in marketing<h3>
 
 - 🌱 I’m currently learning <b>Laravel, Livewire, Vue, AWS, Swift</b>
 
